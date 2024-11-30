@@ -1,0 +1,22 @@
+* C:\Users\elife\Desktop\Draft1.asc
+L1 N004 PWM_low 37.7e-6
+L2 N002 N005 9.43548E-06
+Vin N001 0 36
+M1 N001 PWM_high PWM_low PWM_low BSC100N10NSF
+M2 N004 PWM 0 0 BSC100N10NSF
+D2 N004 N001 RBQ30NS100A
+D3 N002 N003 RBQ30NS100A
+Cout N003 N005 100µ
+Rload N003 N005 1.2
+V2 PWM 0 PULSE(-20 10 0 1e-9 1e-9 0.42e-5 1e-5)
+V1 PWM_high PWM_low PULSE(-20 10 0 1e-9 1e-9 0.42e-5 1e-5)
+D1 0 PWM_low RBQ30NS100A
+.model D D
+.lib C:\Users\elife\Documents\LTspiceXVII\lib\cmp\standard.dio
+.model NMOS NMOS
+.model PMOS PMOS
+.lib C:\Users\elife\Documents\LTspiceXVII\lib\cmp\standard.mos
+.tran 0.02
+K L1 L2 1
+.backanno
+.end
