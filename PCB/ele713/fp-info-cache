@@ -1,4 +1,4 @@
-23839636280347275
+23855241571671835
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -96739,6 +96739,69 @@ Varistor VF
 0
 2
 2
+powerlabLibrary
+CAPAE830X1250N
+8*12.2mm
+Capacitor
+0
+2
+2
+powerlabLibrary
+D_PowerDI-5
+PowerDI,Diode,Vishay,https://www.diodes.com/assets/Package-Files/PowerDI5.pdf
+PowerDI diode vishay
+0
+3
+2
+powerlabLibrary
+ETD39_coilformer
+
+
+0
+16
+4
+powerlabLibrary
+F861KM473M310A
+F861KM473M310A-2
+Capacitor
+0
+2
+2
+powerlabLibrary
+R46KN410050N1K
+R46KN410050N1K-2
+Capacitor
+0
+2
+2
+powerlabLibrary
+R76QD0220SE00J
+R76QD0220SE00J-1
+Capacitor
+0
+2
+2
+powerlabLibrary
+SC1810J
+SC-18-10J-1
+Power Supply
+0
+4
+4
+powerlabLibrary
+SOIC-4_4.55x3.7mm_P2.54mm
+SOIC, 4 Pin (https://toshiba.semicon-storage.com/info/docget.jsp?did=11791&prodName=TLP185), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
+0
+4
+4
+powerlabLibrary
+VSSOP-8_3x3mm_P0.65mm
+VSSOP, 8 Pin (https://www.jedec.org/standards-documents/docs/mo-187-f), generated with kicad-footprint-generator ipc_gullwing_generator.py
+VSSOP SO JEDEC-MO-187-AA TI-DGK0008A
+0
+8
+8
 powerlabLibrary
 WE-FLYLT_EP13_L13.46W17.75H12.70
 Flyback Transformers for Linear Technology, body 13.46 x 17.75mm
