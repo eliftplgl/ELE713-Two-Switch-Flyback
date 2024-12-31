@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP A768KS227M1VLAE024
+D A768, Aluminum, Polymer Aluminum, 220 uF, 20%, 35 VDC, -55/+125C, 125C, -55C, 125C, 2,000 Hrs, 24 mOhms, 1,540 uA, 8mm, 12.2mm, 400
+K
+F https://search.kemet.com/component-documentation/download/specsheet/A768KS227M1VLAE024
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP A768MS566M1KLAE034
+D A768, Aluminum, Polymer Aluminum, 56 uF, 20%, 80 VDC, -55/+125C, 125C, -55C, 125C, 2,000 Hrs, 34 mOhms, 896 uA, 10mm, 12.2mm, 400
+K
+F https://search.kemet.com/component-documentation/download/specsheet/A768MS566M1KLAE034
+$ENDCMP
+#
+#End Doc Library

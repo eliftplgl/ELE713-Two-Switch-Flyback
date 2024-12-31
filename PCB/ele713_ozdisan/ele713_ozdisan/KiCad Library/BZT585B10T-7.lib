@@ -1,0 +1,30 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model BZT585B10T-7
+#/528520/1558778/2.50/2/2/Zener Diode
+DEF BZT585B10T-7 Z 0 30 Y Y 1 F N
+F0 "Z" 400 350 50 H V L CNN
+F1 "BZT585B10T-7" 400 250 50 H V L CNN
+F2 "SODFL1608X65N" 400 150 50 H I L CNN
+F3 "https://www.diodes.com//assets/Datasheets/BZT585BxVxT.pdf" 400 50 50 H I L CNN
+F4 "Diodes Inc, 10V Zener Diode +/-2% 350 mW SMT 2-Pin SOD-523" 400 -50 50 H I L CNN "Description"
+F5 "0.65" 400 -150 50 H I L CNN "Height"
+F6 "Diodes Incorporated" 400 -250 50 H I L CNN "Manufacturer_Name"
+F7 "BZT585B10T-7" 400 -350 50 H I L CNN "Manufacturer_Part_Number"
+F8 "621-BZT585B10T-7" 400 -450 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/BZT585B10T-7?qs=bLNvM6dkO6SpbzFcVXTnnA%3D%3D" 400 -550 50 H I L CNN "Mouser Price/Stock"
+F10 "BZT585B10T-7" 400 -650 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/bzt585b10t-7/diodes-incorporated" 400 -750 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X ~ 1 0 0 100 R 50 50 0 0 P
+X ~ 2 600 0 100 L 50 50 0 0 P
+P 2 0 1 6 200 80 200 -80 N
+P 2 0 1 6 200 80 240 100 N
+P 2 0 1 6 160 -100 200 -80 N
+P 2 0 1 6 100 0 200 0 N
+P 2 0 1 6 500 0 400 0 N
+P 4 0 1 10 200 0 400 100 400 -100 200 0 F
+ENDDRAW
+ENDDEF
+#
+#End Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP R82EC4100DQ70J
+D R82, Film, Metallized Polyester Stacked, Automotive Grade, 1 uF, 5%, 63 VAC, 100 VDC, 105C, -55C, 85C, 0.8 % , 5 GOhms, 200 V/us, 7000 pH, 0.95 g, 7.2mm, 11mm, 6mm, Lead Spacing = 5mm, 1400
+K
+F https://content.kemet.com/datasheets/KEM_F3101_R82.pdf
+$ENDCMP
+#
+#End Doc Library

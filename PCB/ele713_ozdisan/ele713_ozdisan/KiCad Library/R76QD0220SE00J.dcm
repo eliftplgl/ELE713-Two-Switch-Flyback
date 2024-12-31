@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP R76QD0220SE00J
+D R76, Film, Double Metallized Polypropylene, Automotive Grade, 220 pF, 5%, 400 VAC, 1000 VDC, 110C, -55C, 85C, 0.03 % , 100 GOhms, 6000 V/us, 8000 pH, 0.36 g, 10mm, 8mm, 3mm, Lead Spacing = 7.5mm, 1500
+K
+F https://content.kemet.com/datasheets/KEM_F3034_R76.pdf
+$ENDCMP
+#
+#End Doc Library

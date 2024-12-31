@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SC-18-10J
+D KEMET, SC-J, AC Line Filters, Common Mode, 250 VAC, 0.7 mH, 20 A, 120C, -25C, 20 mOhms, 200, 35mm, 24mm, 33mm, 5mm, 18mm, 16mm, 45.4 g
+K
+F https://content.kemet.com/datasheets/KEM_LF0006_SC-J.pdf
+$ENDCMP
+#
+#End Doc Library

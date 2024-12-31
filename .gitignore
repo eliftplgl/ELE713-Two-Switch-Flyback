@@ -1,2 +1,3 @@
 PSIM Simulation/*.smv
 ltspice flyback sim/*.raw
+*/*/*/*/*-backups

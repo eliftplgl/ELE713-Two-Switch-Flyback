@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP R46KN410050N1K
+D R46 275 VAC, Film, Metallized Polypropylene, Safety, 1 uF, 10%, 275 VAC, 275 VAC (X2), 275 VAC, 560 VDC, 110C, -40C, 110C, 0.1 % , 30 GOhms, 200 V/us, 2, 7.958 g, 26.5mm, 20mm, 11mm, Lead Spacing = 22.5mm, 250
+K
+F https://content.kemet.com/datasheets/KEM_F3093_R46_X2_275_110C.pdf
+$ENDCMP
+#
+#End Doc Library
